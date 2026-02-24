@@ -32,6 +32,9 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/137f0429-9132-4da7-8832-c19c000f1db8" />
 
+# PRACTICAL GRAPH:
+PASTE UR GRAPH HERE.
+
 # PROCEDURE:
 
 1.	Select the entire resistor with the same value. Let R be the gain varying resistor with different values of resistance for simplicity let R be a constant value.
